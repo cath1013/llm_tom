@@ -1,0 +1,88 @@
+"Study","Condition","Story","story_label","agent","Source","n","n_correct","accuracy","sd"
+"1a","False belief","1","John","Gemini3","Model",20,20,1,0
+"1a","False belief","1","John","GPT-5.2","Model",20,20,1,0
+"1a","False belief","1","John","gpt-oss-120b","Model",20,20,1,0
+"1a","False belief","1","John","Llama4:Scout","Model",20,20,1,0
+"1a","False belief","2","Lucy","Gemini3","Model",20,20,1,0
+"1a","False belief","2","Lucy","GPT-5.2","Model",20,20,1,0
+"1a","False belief","2","Lucy","gpt-oss-120b","Model",20,20,1,0
+"1a","False belief","2","Lucy","Llama4:Scout","Model",20,20,1,0
+"1a","False belief","3","Grace","Gemini3","Model",20,20,1,0
+"1a","False belief","3","Grace","GPT-5.2","Model",20,20,1,0
+"1a","False belief","3","Grace","gpt-oss-120b","Model",20,20,1,0
+"1a","False belief","3","Grace","Llama4:Scout","Model",20,20,1,0
+"1a","Transparency","1","John","Gemini3","Model",20,0,0,0
+"1a","Transparency","1","John","GPT-5.2","Model",20,0,0,0
+"1a","Transparency","1","John","gpt-oss-120b","Model",20,0,0,0
+"1a","Transparency","1","John","Llama4:Scout","Model",20,0,0,0
+"1a","Transparency","2","Lucy","Gemini3","Model",20,0,0,0
+"1a","Transparency","2","Lucy","GPT-5.2","Model",20,0,0,0
+"1a","Transparency","2","Lucy","gpt-oss-120b","Model",20,0,0,0
+"1a","Transparency","2","Lucy","Llama4:Scout","Model",20,0,0,0
+"1a","Transparency","3","Grace","Gemini3","Model",20,0,0,0
+"1a","Transparency","3","Grace","GPT-5.2","Model",20,0,0,0
+"1a","Transparency","3","Grace","gpt-oss-120b","Model",20,0,0,0
+"1a","Transparency","3","Grace","Llama4:Scout","Model",20,0,0,0
+"1a","Spatial-relation","1","John","Gemini3","Model",20,0,0,0
+"1a","Spatial-relation","1","John","GPT-5.2","Model",20,0,0,0
+"1a","Spatial-relation","1","John","gpt-oss-120b","Model",20,0,0,0
+"1a","Spatial-relation","1","John","Llama4:Scout","Model",20,0,0,0
+"1a","Spatial-relation","2","Lucy","Gemini3","Model",20,0,0,0
+"1a","Spatial-relation","2","Lucy","GPT-5.2","Model",20,0,0,0
+"1a","Spatial-relation","2","Lucy","gpt-oss-120b","Model",20,0,0,0
+"1a","Spatial-relation","2","Lucy","Llama4:Scout","Model",20,0,0,0
+"1a","Spatial-relation","3","Grace","Gemini3","Model",20,0,0,0
+"1a","Spatial-relation","3","Grace","GPT-5.2","Model",20,0,0,0
+"1a","Spatial-relation","3","Grace","gpt-oss-120b","Model",20,0,0,0
+"1a","Spatial-relation","3","Grace","Llama4:Scout","Model",20,0,0,0
+"1a","Testimony","1","John","Gemini3","Model",20,15,0.75,0.444
+"1a","Testimony","1","John","GPT-5.2","Model",20,8,0.4,0.503
+"1a","Testimony","1","John","gpt-oss-120b","Model",20,17,0.85,0.366
+"1a","Testimony","1","John","Llama4:Scout","Model",20,15,0.75,0.444
+"1a","Testimony","2","Lucy","Gemini3","Model",20,18,0.9,0.308
+"1a","Testimony","2","Lucy","GPT-5.2","Model",20,13,0.65,0.489
+"1a","Testimony","2","Lucy","gpt-oss-120b","Model",20,20,1,0
+"1a","Testimony","2","Lucy","Llama4:Scout","Model",20,2,0.1,0.308
+"1a","Testimony","3","Grace","Gemini3","Model",20,20,1,0
+"1a","Testimony","3","Grace","GPT-5.2","Model",20,4,0.2,0.41
+"1a","Testimony","3","Grace","gpt-oss-120b","Model",20,18,0.9,0.308
+"1a","Testimony","3","Grace","Llama4:Scout","Model",20,0,0,0
+"1b","Clarified transparency","1","John","Human","Human",50,46,0.92,0.274
+"1b","Clarified transparency","1","John","Gemini3","Model",20,13,0.65,0.489
+"1b","Clarified transparency","1","John","GPT-5.2","Model",20,0,0,0
+"1b","Clarified transparency","1","John","gpt-oss-120b","Model",20,0,0,0
+"1b","Clarified transparency","1","John","Llama4:Scout","Model",20,0,0,0
+"1b","Clarified transparency","2","Lucy","Human","Human",49,40,0.816,0.391
+"1b","Clarified transparency","2","Lucy","Gemini3","Model",20,3,0.15,0.366
+"1b","Clarified transparency","2","Lucy","GPT-5.2","Model",20,0,0,0
+"1b","Clarified transparency","2","Lucy","gpt-oss-120b","Model",20,0,0,0
+"1b","Clarified transparency","2","Lucy","Llama4:Scout","Model",20,0,0,0
+"1b","Clarified transparency","3","Grace","Human","Human",47,39,0.83,0.38
+"1b","Clarified transparency","3","Grace","Gemini3","Model",20,8,0.4,0.503
+"1b","Clarified transparency","3","Grace","GPT-5.2","Model",20,0,0,0
+"1b","Clarified transparency","3","Grace","gpt-oss-120b","Model",20,0,0,0
+"1b","Clarified transparency","3","Grace","Llama4:Scout","Model",20,1,0.05,0.224
+"1b","Clarified spatial-relation","1","John","Human","Human",50,13,0.26,0.443
+"1b","Clarified spatial-relation","1","John","Gemini3","Model",20,0,0,0
+"1b","Clarified spatial-relation","1","John","GPT-5.2","Model",20,0,0,0
+"1b","Clarified spatial-relation","1","John","gpt-oss-120b","Model",20,0,0,0
+"1b","Clarified spatial-relation","1","John","Llama4:Scout","Model",20,0,0,0
+"1b","Clarified spatial-relation","2","Lucy","Human","Human",49,38,0.776,0.422
+"1b","Clarified spatial-relation","2","Lucy","Gemini3","Model",20,0,0,0
+"1b","Clarified spatial-relation","2","Lucy","GPT-5.2","Model",20,0,0,0
+"1b","Clarified spatial-relation","2","Lucy","gpt-oss-120b","Model",20,0,0,0
+"1b","Clarified spatial-relation","2","Lucy","Llama4:Scout","Model",20,0,0,0
+"1b","Clarified spatial-relation","3","Grace","Human","Human",48,37,0.771,0.425
+"1b","Clarified spatial-relation","3","Grace","Gemini3","Model",20,0,0,0
+"1b","Clarified spatial-relation","3","Grace","GPT-5.2","Model",20,2,0.1,0.308
+"1b","Clarified spatial-relation","3","Grace","gpt-oss-120b","Model",20,0,0,0
+"1b","Clarified spatial-relation","3","Grace","Llama4:Scout","Model",20,0,0,0
+"2","Multimodal transparency","1","John","Human","Human",40,22,0.55,0.504
+"2","Multimodal transparency","1","John","Gemini3","Model",20,0,0,0
+"2","Multimodal transparency","1","John","GPT-5.2","Model",13,0,0,0
+"2","Multimodal transparency","2","Lucy","Human","Human",44,33,0.75,0.438
+"2","Multimodal transparency","2","Lucy","Gemini3","Model",19,1,0.053,0.229
+"2","Multimodal transparency","2","Lucy","GPT-5.2","Model",3,0,0,0
+"2","Multimodal transparency","3","Grace","Human","Human",48,37,0.771,0.425
+"2","Multimodal transparency","3","Grace","Gemini3","Model",20,0,0,0
+"2","Multimodal transparency","3","Grace","GPT-5.2","Model",6,0,0,0

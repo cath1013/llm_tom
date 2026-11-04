@@ -1,0 +1,11 @@
+"Condition","agent","n","Q1_correct","Q2_correct","Q3_correct","n_retained","pct_retained","n_target_correct","target_accuracy"
+"Clarified transparency","Human",150,149,150,147,146,97.3,125,0.856
+"Clarified transparency","Gemini3",60,60,60,60,60,100,24,0.4
+"Clarified transparency","GPT-5.2",60,60,60,60,60,100,0,0
+"Clarified transparency","gpt-oss-120b",60,60,60,60,60,100,0,0
+"Clarified transparency","Llama4:Scout",60,60,60,60,60,100,1,0.017
+"Clarified spatial-relation","Human",150,150,149,148,147,98,88,0.599
+"Clarified spatial-relation","Gemini3",60,60,60,60,60,100,0,0
+"Clarified spatial-relation","GPT-5.2",60,60,60,60,60,100,2,0.033
+"Clarified spatial-relation","gpt-oss-120b",60,60,60,60,60,100,0,0
+"Clarified spatial-relation","Llama4:Scout",60,60,60,60,60,100,0,0

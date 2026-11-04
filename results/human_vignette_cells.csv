@@ -1,0 +1,5 @@
+"Condition","Vignette","n","n_correct","accuracy"
+"Clarified spatial-relation","Other",97,75,0.773
+"Clarified transparency","Other",96,79,0.823
+"Clarified spatial-relation","John",50,13,0.26
+"Clarified transparency","John",50,46,0.92

@@ -1,0 +1,3 @@
+"Condition","n_human","acc_human","n_model","acc_model","df","LR_chisq","p_LRT","p_LRT_fmt","OR","CI_low","CI_high"
+"Clarified transparency",146,0.856,240,0.104,1,239.741,4.47794884232069e-54,"< .001",0.0166,0.0082,0.0313
+"Clarified spatial-relation",147,0.599,240,0.008,1,215.597,8.25757563975351e-49,"< .001",0.0035,6e-04,0.012

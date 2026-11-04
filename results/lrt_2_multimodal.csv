@@ -1,0 +1,2 @@
+"Condition","n_human","acc_human","n_model","acc_model","df","LR_chisq","p_LRT","p_LRT_fmt","OR","CI_low","CI_high"
+"Multimodal transparency",132,0.697,59,0.017,1,93.608,3.84548302742583e-22,"< .001",0.0068,4e-04,0.0332

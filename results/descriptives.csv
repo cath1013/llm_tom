@@ -1,0 +1,30 @@
+"Study","Condition","agent","Source","n","n_correct","accuracy","sd"
+"1a","False belief","Gemini3","Model",60,60,1,0
+"1a","False belief","GPT-5.2","Model",60,60,1,0
+"1a","False belief","gpt-oss-120b","Model",60,60,1,0
+"1a","False belief","Llama4:Scout","Model",60,60,1,0
+"1a","Transparency","Gemini3","Model",60,0,0,0
+"1a","Transparency","GPT-5.2","Model",60,0,0,0
+"1a","Transparency","gpt-oss-120b","Model",60,0,0,0
+"1a","Transparency","Llama4:Scout","Model",60,0,0,0
+"1a","Spatial-relation","Gemini3","Model",60,0,0,0
+"1a","Spatial-relation","GPT-5.2","Model",60,0,0,0
+"1a","Spatial-relation","gpt-oss-120b","Model",60,0,0,0
+"1a","Spatial-relation","Llama4:Scout","Model",60,0,0,0
+"1a","Testimony","Gemini3","Model",60,53,0.883,0.324
+"1a","Testimony","GPT-5.2","Model",60,25,0.417,0.497
+"1a","Testimony","gpt-oss-120b","Model",60,55,0.917,0.279
+"1a","Testimony","Llama4:Scout","Model",60,17,0.283,0.454
+"1b","Clarified transparency","Human","Human",146,125,0.856,0.352
+"1b","Clarified transparency","Gemini3","Model",60,24,0.4,0.494
+"1b","Clarified transparency","GPT-5.2","Model",60,0,0,0
+"1b","Clarified transparency","gpt-oss-120b","Model",60,0,0,0
+"1b","Clarified transparency","Llama4:Scout","Model",60,1,0.017,0.129
+"1b","Clarified spatial-relation","Human","Human",147,88,0.599,0.492
+"1b","Clarified spatial-relation","Gemini3","Model",60,0,0,0
+"1b","Clarified spatial-relation","GPT-5.2","Model",60,2,0.033,0.181
+"1b","Clarified spatial-relation","gpt-oss-120b","Model",60,0,0,0
+"1b","Clarified spatial-relation","Llama4:Scout","Model",60,0,0,0
+"2","Multimodal transparency","Human","Human",132,92,0.697,0.461
+"2","Multimodal transparency","Gemini3","Model",59,1,0.017,0.13
+"2","Multimodal transparency","GPT-5.2","Model",22,0,0,0

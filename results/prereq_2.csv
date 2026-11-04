@@ -1,0 +1,4 @@
+"Condition","agent","n","Q1_correct","Q2_correct","n_retained","pct_retained","n_target_correct","target_accuracy"
+"Multimodal transparency","Human",150,135,147,132,88,92,0.697
+"Multimodal transparency","Gemini3",60,60,59,59,98.3,1,0.017
+"Multimodal transparency","GPT-5.2",60,59,23,22,36.7,0,0

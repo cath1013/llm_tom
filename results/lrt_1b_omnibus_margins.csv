@@ -1,0 +1,9 @@
+"effect","level","n","n_correct","accuracy"
+"Source","Human",293,213,0.727
+"Source","Model",480,27,0.056
+"Condition","Clarified spatial-relation",387,90,0.233
+"Condition","Clarified transparency",386,150,0.389
+"Source x Condition","Human / Clarified spatial-relation",147,88,0.599
+"Source x Condition","Model / Clarified spatial-relation",240,2,0.008
+"Source x Condition","Human / Clarified transparency",146,125,0.856
+"Source x Condition","Model / Clarified transparency",240,25,0.104

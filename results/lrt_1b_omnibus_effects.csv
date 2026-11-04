@@ -1,0 +1,5 @@
+"term","df","LR_chisq","p_LRT","p_LRT_fmt"
+"Source (main effect)",1,435.049,1.29428261285738e-96,"< .001"
+"Condition (main effect)",1,47.2,6.41121725055028e-12,"< .001"
+"Source x Condition (interaction)",1,2.978,0.0844141478611102,"0.084"
+"Story / vignette (omnibus)",2,6.886,0.0319733862880912,"0.032"

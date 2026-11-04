@@ -1,0 +1,2 @@
+"test","n_John","acc_John","n_Other","acc_Other","OR_fisher","CI_low","CI_high","p_fisher","p_fisher_fmt"
+"Clarified spatial-relation humans: John vs Lucy+Grace",50,0.26,97,0.773,9.5176,4.1251,23.254,2.14336296700204e-09,"< .001"
